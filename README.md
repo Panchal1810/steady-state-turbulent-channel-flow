@@ -15,4 +15,7 @@ Comparison of LRR and SSG model with DNS data, for non-dimensional velocity pro
 
 ![image](https://github.com/Panchal1810/steady-state-turbulent-channel-flow/assets/122630851/aeb4133a-13b6-4304-a775-790302c43c3c)
 
+Comparison of the Reynold stress tensor using LRR and SSG model with DNS data
+
+![image](https://github.com/Panchal1810/steady-state-turbulent-channel-flow/assets/122630851/4ecf6aa0-1860-49ad-9810-dd9089cd3b38)
 
